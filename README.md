@@ -44,7 +44,7 @@ The OOPS Laundry Management System is a platform designed to help laundry servic
 To run the OOPS Laundry Management System, navigate to the project directory and execute the main script:
 
 ```bash
-python main.py
+python mainn.py
 ```
 
 ## Features
